@@ -1,0 +1,23 @@
+.wrapper{
+    height: 350px;
+    width: 300px;
+    border: solid black 2px;
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px 1px black;
+    text-align: left;
+    /* margin-left: 20px; */
+
+}
+.avatar{
+    /* padding-top: 80px; */
+    border-radius: 50%;
+}
+.paper{
+    background-color: aqua;
+    height: 20px;
+    width: 100px;
+}
+/* .wrapperApp{
+    display: flex;
+    /* background-color: aqua; */
+/* } */ 
